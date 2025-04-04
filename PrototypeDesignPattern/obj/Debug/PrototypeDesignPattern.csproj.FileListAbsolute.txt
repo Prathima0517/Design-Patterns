@@ -1,0 +1,7 @@
+C:\Users\Prathima_Banda\Desktop\DesignPatterns\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe.config
+C:\Users\Prathima_Banda\Desktop\DesignPatterns\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.exe
+C:\Users\Prathima_Banda\Desktop\DesignPatterns\PrototypeDesignPattern\bin\Debug\PrototypeDesignPattern.pdb
+C:\Users\Prathima_Banda\Desktop\DesignPatterns\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Prathima_Banda\Desktop\DesignPatterns\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Prathima_Banda\Desktop\DesignPatterns\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.exe
+C:\Users\Prathima_Banda\Desktop\DesignPatterns\PrototypeDesignPattern\obj\Debug\PrototypeDesignPattern.pdb
